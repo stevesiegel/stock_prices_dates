@@ -11,7 +11,7 @@ Problem now is that script is expecting an output to be displayed, so error mess
 I am currently working on way to stop error message and as a first step display graph in command window.  Later need to use HTML to plot.
 Dates are temporily set for the last 90 days.
 Initially, I would like to have the script plot stock prices for the last 90 days for the ticker symbol entered.
-After stock prices ploted, other stock statistics will be added.
+After stock prices ploted, other stock statistics will be added, and script will be able to accept different dates.
 
 
 
